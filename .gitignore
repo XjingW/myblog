@@ -1,6 +1,7 @@
 /public/
 /resources/_gen/
-/.idea/
-/.vscode/
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/
 node_modules/

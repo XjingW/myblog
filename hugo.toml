@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://1.94.29.223/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "hugo-xmin"
